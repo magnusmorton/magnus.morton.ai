@@ -1,0 +1,21 @@
+baseURL = "https://magnus.morton.ai/"
+languageCode = "en-GB"
+title = "Magnus Morton"
+theme = "hyde"
+
+[params]
+  themeColor = "theme-base-08"
+  description = "Postdoctoral Compiler Wrangler"
+
+
+[menu]
+
+	[[menu.main]]
+		identifier = "about"
+		name = "About"
+		url = "/about"
+
+	[[menu.main]]
+		identifier = "feed"
+		name = "Feed"
+		url = "/index.xml"
