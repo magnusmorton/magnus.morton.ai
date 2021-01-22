@@ -1,7 +1,7 @@
 ---
 title: "DelayRepay"
 date: 2021-01-20T21:12:07Z
-draft: true
+draft: false
 ---
 We presented _DelayRepay: Delayed Execution for Kernel Fusion in Python_ at the Dynamic Languages Symposium 2020. DLS was supposed to be in Chicago, but alas.
 
